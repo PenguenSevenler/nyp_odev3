@@ -1,0 +1,16 @@
+C:\vstudioprojects\nyp_odev3_sumofdigits\nyp_odev3_sumofdigits\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\vstudioprojects\nyp_odev3_sumofdigits\nyp_odev3_sumofdigits\obj\Debug\net6.0-windows\nyp_odev3_sumofdigits.csproj.GenerateResource.cache
+C:\vstudioprojects\nyp_odev3_sumofdigits\nyp_odev3_sumofdigits\obj\Debug\net6.0-windows\nyp_odev3_sumofdigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\vstudioprojects\nyp_odev3_sumofdigits\nyp_odev3_sumofdigits\obj\Debug\net6.0-windows\nyp_odev3_sumofdigits.AssemblyInfoInputs.cache
+C:\vstudioprojects\nyp_odev3_sumofdigits\nyp_odev3_sumofdigits\obj\Debug\net6.0-windows\nyp_odev3_sumofdigits.AssemblyInfo.cs
+C:\vstudioprojects\nyp_odev3_sumofdigits\nyp_odev3_sumofdigits\obj\Debug\net6.0-windows\nyp_odev3_sumofdigits.csproj.CoreCompileInputs.cache
+C:\vstudioprojects\nyp_odev3_sumofdigits\nyp_odev3_sumofdigits\bin\Debug\net6.0-windows\nyp_odev3_sumofdigits.exe
+C:\vstudioprojects\nyp_odev3_sumofdigits\nyp_odev3_sumofdigits\bin\Debug\net6.0-windows\nyp_odev3_sumofdigits.deps.json
+C:\vstudioprojects\nyp_odev3_sumofdigits\nyp_odev3_sumofdigits\bin\Debug\net6.0-windows\nyp_odev3_sumofdigits.runtimeconfig.json
+C:\vstudioprojects\nyp_odev3_sumofdigits\nyp_odev3_sumofdigits\bin\Debug\net6.0-windows\nyp_odev3_sumofdigits.dll
+C:\vstudioprojects\nyp_odev3_sumofdigits\nyp_odev3_sumofdigits\bin\Debug\net6.0-windows\nyp_odev3_sumofdigits.pdb
+C:\vstudioprojects\nyp_odev3_sumofdigits\nyp_odev3_sumofdigits\obj\Debug\net6.0-windows\nyp_odev3_sumofdigits.dll
+C:\vstudioprojects\nyp_odev3_sumofdigits\nyp_odev3_sumofdigits\obj\Debug\net6.0-windows\refint\nyp_odev3_sumofdigits.dll
+C:\vstudioprojects\nyp_odev3_sumofdigits\nyp_odev3_sumofdigits\obj\Debug\net6.0-windows\nyp_odev3_sumofdigits.pdb
+C:\vstudioprojects\nyp_odev3_sumofdigits\nyp_odev3_sumofdigits\obj\Debug\net6.0-windows\nyp_odev3_sumofdigits.genruntimeconfig.cache
+C:\vstudioprojects\nyp_odev3_sumofdigits\nyp_odev3_sumofdigits\obj\Debug\net6.0-windows\ref\nyp_odev3_sumofdigits.dll
