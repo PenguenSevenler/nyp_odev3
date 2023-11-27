@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\habil\\Desktop\\OkulProje-Odev\\2.Sınıf\\1.Dönem\\Nesneye Yonelik Programlama\\odev1\\odev1.csproj",
+      "projectUniqueName": "C:\\Users\\habil\\Desktop\\OkulProje-Odev\\2.Sınıf\\1.Dönem\\Nesneye Yonelik Programlama\\soru8.19\\odev1.csproj",
       "projectName": "odev1",
-      "projectPath": "C:\\Users\\habil\\Desktop\\OkulProje-Odev\\2.Sınıf\\1.Dönem\\Nesneye Yonelik Programlama\\odev1\\odev1.csproj",
+      "projectPath": "C:\\Users\\habil\\Desktop\\OkulProje-Odev\\2.Sınıf\\1.Dönem\\Nesneye Yonelik Programlama\\soru8.19\\odev1.csproj",
       "packagesPath": "C:\\Users\\habil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\habil\\Desktop\\OkulProje-Odev\\2.Sınıf\\1.Dönem\\Nesneye Yonelik Programlama\\odev1\\obj\\",
+      "outputPath": "C:\\Users\\habil\\Desktop\\OkulProje-Odev\\2.Sınıf\\1.Dönem\\Nesneye Yonelik Programlama\\soru8.19\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\habil\\AppData\\Roaming\\NuGet\\NuGet.Config"

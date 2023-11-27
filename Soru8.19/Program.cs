@@ -17,7 +17,7 @@ namespace Workspace
             {
                 int sinifKontrol;
                 int koltukNumarasi;
-                Console.Write("First Class Bileti Icin '1'\nEkonomi Bileti Icin '2'\n:");
+                Console.Write("Please Type '1' for First Class\nPlease Type '2' for Economy Class\n:");
                 sinifKontrol = Convert.ToInt32(Console.ReadLine());
                 
                 if(sinifKontrol == 1)
@@ -26,14 +26,19 @@ namespace Workspace
                     {
                         if(seats[koltukNumarasi] == false)
                         {
-                            Console.Write("\nKoltuk Numaraniz: {0}\n",koltukNumarasi+1);
+                            Console.Write("\nPurchase Complete");
+                            Console.Write("\nSection: First Class\nSeat NO: {0}\n",koltukNumarasi+1);
                             seats[koltukNumarasi] = true;
                             break;
                         }
                         if(koltukNumarasi == 4)
                         {
-                            Console.WriteLine("First Class Dolmustur\nBir Sonraki Ucus 3 Saat Sonradir\nEkonomi Sinifindan Bilet Almak Ister Misiniz? (2)");
+                            Console.WriteLine("\nFirst Class is Full\nWould you like to take Economy Class? (2)");
                             sinifKontrol = Convert.ToInt32(Console.ReadLine());
+                            if(sinifKontrol != 2)
+                            {
+                                Console.Write("\nNext flight leaves in 3 hours");
+                            }
                         }
                     }
 
@@ -45,18 +50,24 @@ namespace Workspace
                     {
                         if(seats[koltukNumarasi] == false)
                         {
-                            Console.Write("\nKoltuk Numaraniz: {0}\n",koltukNumarasi+1);
+                            Console.Write("\nPurchase Complete");
+                            Console.Write("\nSection: Economy Class\nSeat NO: {0}\n",koltukNumarasi+1);
                             seats[koltukNumarasi] = true;
                             break;
                         }
                         if(koltukNumarasi == 9)
                         {
-                            Console.WriteLine("Ekonomi Sinifi Dolmustur\nBir Sonraki Ucus 3 Saat Sonradir");
+                            Console.WriteLine("\nEconomy Class is Full\nWould you like to take First Class (1)");
+                            sinifKontrol = Convert.ToInt32(Console.ReadLine());
+                            if(sinifKontrol != 1)
+                            {
+                                Console.Write("\n Next flight leaves in 3 hours");
+                            }
                         }
                     }
                 }
 
-                Console.WriteLine("\nTekrar Islem Yapmak Icin 'Y': \n");
+                Console.WriteLine("\nTo Buy Tickets Again 'Y': \n");
                 tekrarKontrol = Convert.ToChar(Console.ReadLine());
             }
 
